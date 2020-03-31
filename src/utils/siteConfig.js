@@ -1,7 +1,7 @@
 module.exports = {
     siteUrl: `https://showcase.giattt.com`, // Site domain. Do not include a trailing slash!
 
-    postsPerPage: 9, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
+    postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
     siteTitleMeta: `Showcase of Giattt.com`, // This allows an alternative site title for meta data for pages.
     siteDescriptionMeta: `Create more. More fun!`, // This allows an alternative site description for meta data for pages.
