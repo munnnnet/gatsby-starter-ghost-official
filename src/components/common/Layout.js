@@ -64,7 +64,7 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                     <Navigation data={site.navigation} navClass="site-nav-item" />
                                 </div>
                                 <div className="site-nav-right">
-                                    <Link className="site-nav-button" href="https://giattt.com#pricing">Pricing</Link>
+                                    <Link className="site-nav-button" to="/pricing">Pricing</Link>
                                 </div>
                             </nav>
                         </div>
